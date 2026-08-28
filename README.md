@@ -1,15 +1,15 @@
-# 🏆 Premier League Evaluator
-
+🏆 Premier League Evaluator
 A Streamlit web app for exploring, analyzing, and comparing Premier League players using machine-learning-driven valuations and performance data — wrapped in a bold, retro matchday-poster UI.
 
-![Premier League Evaluator](screenshots/hero.png)
+[Python](https://img.shields.io/badge/python-3.9%2B-blue)
+[Streamlit](https://img.shields.io/badge/streamlit-app-red)
+[License](https://img.shields.io/badge/license-MIT-green)
 
-[![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/streamlit-app-red)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+## 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Open%20App-red?style=for-the-badge)](https://premier-league-evaluator.streamlit.app/)
 
 ---
-
 ## ✨ Features
 
 - **Player Analysis** — Select any team and player to view their market value, ML-estimated final valuation, value gap, key stats, and a radar chart of performance metrics.
