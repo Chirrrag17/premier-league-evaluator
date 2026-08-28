@@ -1,0 +1,499 @@
+Player Name,Club,Position,market_value_in_eur,ML Estimated Value,Final Valuation,Valuation Type
+Ben White,Arsenal,DEF,45000000.0,19446000.0,45000000.0,Transfermarkt
+Bukayo Saka,Arsenal,MID,150000000.0,104780000.0,150000000.0,Transfermarkt
+David Raya,Arsenal,GKP,40000000.0,19437000.0,40000000.0,Transfermarkt
+Declan Rice,Arsenal,MID,120000000.0,88041000.0,120000000.0,Transfermarkt
+Ethan Nwaneri,Arsenal,MID,55000000.0,41527000.0,55000000.0,Transfermarkt
+Gabriel Jesus,Arsenal,FWD,32000000.0,28420000.0,32000000.0,Transfermarkt
+Gabriel Martinelli,Arsenal,MID,55000000.0,48144000.0,55000000.0,Transfermarkt
+Jakub Kiwior,Arsenal,DEF,28000000.0,23962000.0,28000000.0,Transfermarkt
+Jorginho,Arsenal,MID,6000000.0,5473000.0,6000000.0,Transfermarkt
+Jurriën Timber,Arsenal,DEF,55000000.0,29291000.0,55000000.0,Transfermarkt
+Kai Havertz,Arsenal,FWD,65000000.0,60178000.0,65000000.0,Transfermarkt
+Kieran Tierney,Arsenal,DEF,9000000.0,15814000.0,9000000.0,Transfermarkt
+Leandro Trossard,Arsenal,MID,22000000.0,29539000.0,22000000.0,Transfermarkt
+Martin Ødegaard,Arsenal,MID,85000000.0,75868000.0,85000000.0,Transfermarkt
+Mikel Merino,Arsenal,MID,35000000.0,32972000.0,35000000.0,Transfermarkt
+Myles Lewis-Skelly,Arsenal,DEF,45000000.0,31631000.0,45000000.0,Transfermarkt
+Oleksandr Zinchenko,Arsenal,DEF,20000000.0,21006000.0,20000000.0,Transfermarkt
+Raheem Sterling,Arsenal,MID,10000000.0,12897000.0,10000000.0,Transfermarkt
+Riccardo Calafiori,Arsenal,DEF,35000000.0,21854000.0,35000000.0,Transfermarkt
+Takehiro Tomiyasu,Arsenal,DEF,18000000.0,12270000.0,18000000.0,Transfermarkt
+Thomas Partey,Arsenal,MID,14000000.0,14853000.0,14000000.0,Transfermarkt
+William Saliba,Arsenal,DEF,80000000.0,60348000.0,80000000.0,Transfermarkt
+Amadou Onana,Aston Villa,MID,50000000.0,40576000.0,50000000.0,Transfermarkt
+Andrés García,Aston Villa,DEF,7000000.0,7955000.0,7000000.0,Transfermarkt
+Axel Disasi,Aston Villa,DEF,22000000.0,18403000.0,22000000.0,Transfermarkt
+Boubacar Kamara,Aston Villa,MID,40000000.0,32421000.0,40000000.0,Transfermarkt
+Diego Carlos,Aston Villa,DEF,11000000.0,8374000.0,11000000.0,Transfermarkt
+Donyell Malen,Aston Villa,FWD,25000000.0,23632000.0,25000000.0,Transfermarkt
+Emiliano Buendía,Aston Villa,MID,18000000.0,15601000.0,18000000.0,Transfermarkt
+Emiliano Martínez,Aston Villa,GKP,20000000.0,15883000.0,20000000.0,Transfermarkt
+Ezri Konsa,Aston Villa,DEF,35000000.0,28699000.0,35000000.0,Transfermarkt
+Ian Maatsen,Aston Villa,DEF,28000000.0,26650000.0,28000000.0,Transfermarkt
+Jacob Ramsey,Aston Villa,MID,32000000.0,28990000.0,32000000.0,Transfermarkt
+Jhon Durán,Aston Villa,FWD,40000000.0,20695000.0,40000000.0,Transfermarkt
+John McGinn,Aston Villa,MID,16000000.0,16005000.0,16000000.0,Transfermarkt
+Kosta Nedeljkovic,Aston Villa,DEF,8500000.0,8500000.0,8500000.0,Transfermarkt
+Lamare Bogarde,Aston Villa,DEF,6000000.0,9861000.0,6000000.0,Transfermarkt
+Leon Bailey,Aston Villa,MID,28000000.0,25250000.0,28000000.0,Transfermarkt
+Lucas Digne,Aston Villa,DEF,10000000.0,11267000.0,10000000.0,Transfermarkt
+Marco Asensio,Aston Villa,DEF,20000000.0,20608000.0,20000000.0,Transfermarkt
+Marcus Rashford,Aston Villa,MID,50000000.0,41080000.0,50000000.0,Transfermarkt
+Matty Cash,Aston Villa,DEF,25000000.0,25132000.0,25000000.0,Transfermarkt
+Morgan Rogers,Aston Villa,MID,55000000.0,67302000.0,55000000.0,Transfermarkt
+Ollie Watkins,Aston Villa,FWD,40000000.0,42072000.0,40000000.0,Transfermarkt
+Pau Torres,Aston Villa,DEF,32000000.0,26902000.0,32000000.0,Transfermarkt
+Robin Olsen,Aston Villa,GKP,1000000.0,1859000.0,1000000.0,Transfermarkt
+Ross Barkley,Aston Villa,MID,6000000.0,6978000.0,6000000.0,Transfermarkt
+Tyrone Mings,Aston Villa,DEF,5000000.0,5499000.0,5000000.0,Transfermarkt
+Youri Tielemans,Aston Villa,MID,38000000.0,37327000.0,38000000.0,Transfermarkt
+Adam Smith,Bournemouth,DEF,750000.0,2276000.0,750000.0,Transfermarkt
+Alex Scott,Bournemouth,MID,20000000.0,19794000.0,20000000.0,Transfermarkt
+Antoine Semenyo,Bournemouth,MID,40000000.0,51538000.0,40000000.0,Transfermarkt
+Ben Winterburn,Bournemouth,MID,500000.0,2745000.0,500000.0,Transfermarkt
+Dango Ouattara,Bournemouth,MID,28000000.0,34478000.0,28000000.0,Transfermarkt
+Daniel Jebbison,Bournemouth,FWD,4000000.0,8629000.0,4000000.0,Transfermarkt
+David Brooks,Bournemouth,MID,10000000.0,23791000.0,10000000.0,Transfermarkt
+Dean Huijsen,Bournemouth,DEF,60000000.0,50932000.0,60000000.0,Transfermarkt
+Enes Ünal,Bournemouth,FWD,10000000.0,13681000.0,10000000.0,Transfermarkt
+Evanilson,Bournemouth,FWD,35000000.0,36886000.0,35000000.0,Transfermarkt
+James Hill,Bournemouth,DEF,3000000.0,7238000.0,3000000.0,Transfermarkt
+Julio Soler,Bournemouth,DEF,8000000.0,9764000.0,8000000.0,Transfermarkt
+Julián Araujo,Bournemouth,DEF,10000000.0,9992000.0,10000000.0,Transfermarkt
+Justin Kluivert,Bournemouth,MID,35000000.0,33700000.0,35000000.0,Transfermarkt
+Lewis Cook,Bournemouth,MID,15000000.0,23018000.0,15000000.0,Transfermarkt
+Lloyd Kelly,Bournemouth,DEF,18000000.0,13403000.0,18000000.0,Transfermarkt
+Luis Sinisterra,Bournemouth,MID,15000000.0,15782000.0,15000000.0,Transfermarkt
+Marcos Senesi,Bournemouth,DEF,22000000.0,20917000.0,22000000.0,Transfermarkt
+Marcus Tavernier,Bournemouth,MID,18000000.0,29275000.0,18000000.0,Transfermarkt
+Mark Travers,Bournemouth,GKP,4000000.0,8639000.0,4000000.0,Transfermarkt
+Max Aarons,Bournemouth,DEF,16000000.0,13538000.0,16000000.0,Transfermarkt
+Milos Kerkez,Bournemouth,DEF,45000000.0,46641000.0,45000000.0,Transfermarkt
+Philip Billing,Bournemouth,MID,14000000.0,14296000.0,14000000.0,Transfermarkt
+Ryan Christie,Bournemouth,MID,10000000.0,20095000.0,10000000.0,Transfermarkt
+Tyler Adams,Bournemouth,MID,18000000.0,30186000.0,18000000.0,Transfermarkt
+Ben Mee,Brentford,DEF,1000000.0,934000.0,1000000.0,Transfermarkt
+Bryan Mbeumo,Brentford,MID,55000000.0,58461000.0,55000000.0,Transfermarkt
+Christian Nørgaard,Brentford,MID,11000000.0,23830000.0,11000000.0,Transfermarkt
+Ethan Pinnock,Brentford,DEF,7000000.0,7825000.0,7000000.0,Transfermarkt
+Frank Onyeka,Brentford,MID,9000000.0,10891000.0,9000000.0,Transfermarkt
+Fábio Carvalho,Brentford,FWD,14000000.0,15172000.0,14000000.0,Transfermarkt
+Hákon Valdimarsson,Brentford,GKP,2500000.0,6201000.0,2500000.0,Transfermarkt
+Igor Thiago,Brentford,FWD,18000000.0,12832000.0,18000000.0,Transfermarkt
+Keane Lewis-Potter,Brentford,MID,23000000.0,32432000.0,23000000.0,Transfermarkt
+Kevin Schade,Brentford,MID,30000000.0,35683000.0,30000000.0,Transfermarkt
+Kristoffer Ajer,Brentford,DEF,18000000.0,20175000.0,18000000.0,Transfermarkt
+Mads Roerslev,Brentford,DEF,12000000.0,14642000.0,12000000.0,Transfermarkt
+Mark Flekken,Brentford,GKP,10000000.0,13063000.0,10000000.0,Transfermarkt
+Mathias Jensen,Brentford,MID,14000000.0,14186000.0,14000000.0,Transfermarkt
+Michael Kayode,Brentford,DEF,18000000.0,16049000.0,18000000.0,Transfermarkt
+Mikkel Damsgaard,Brentford,MID,28000000.0,35881000.0,28000000.0,Transfermarkt
+Nathan Collins,Brentford,DEF,28000000.0,47143000.0,28000000.0,Transfermarkt
+Rico Henry,Brentford,DEF,15000000.0,12915000.0,15000000.0,Transfermarkt
+Ryan Trevitt,Brentford,MID,275000.0,7618000.0,275000.0,Transfermarkt
+Sepp van den Berg,Brentford,DEF,22000000.0,32512000.0,22000000.0,Transfermarkt
+Vitaly Janelt,Brentford,MID,20000000.0,19136000.0,20000000.0,Transfermarkt
+Yoane Wissa,Brentford,FWD,32000000.0,50068000.0,32000000.0,Transfermarkt
+Yunus Konak,Brentford,MID,4500000.0,6901000.0,4500000.0,Transfermarkt
+Jakub Moder,Brighton,MID,10000000.0,11132000.0,10000000.0,Transfermarkt
+James Milner,Brighton,MID,1000000.0,1223000.0,1000000.0,Transfermarkt
+Adam Webster,Brighton & Hove Albion,DEF,11000000.0,10168000.0,11000000.0,Transfermarkt
+Bart Verbruggen,Brighton & Hove Albion,GKP,30000000.0,31803000.0,30000000.0,Transfermarkt
+Billy Gilmour,Brighton & Hove Albion,MID,18000000.0,15237000.0,18000000.0,Transfermarkt
+Brajan Gruda,Brighton & Hove Albion,MID,25000000.0,22361000.0,25000000.0,Transfermarkt
+Carlos Baleba,Brighton & Hove Albion,MID,40000000.0,40750000.0,40000000.0,Transfermarkt
+Danny Welbeck,Brighton & Hove Albion,FWD,5000000.0,50323000.0,5000000.0,Transfermarkt
+Eiran Cashin,Brighton & Hove Albion,DEF,8000000.0,5929000.0,8000000.0,Transfermarkt
+Georginio Rutter,Brighton & Hove Albion,MID,32000000.0,34101000.0,32000000.0,Transfermarkt
+Igor Julio,Brighton & Hove Albion,DEF,20000000.0,18308000.0,20000000.0,Transfermarkt
+Jack Hinshelwood,Brighton & Hove Albion,MID,24000000.0,28087000.0,24000000.0,Transfermarkt
+Jan Paul van Hecke,Brighton & Hove Albion,DEF,32000000.0,31549000.0,32000000.0,Transfermarkt
+Jason Steele,Brighton & Hove Albion,GKP,1500000.0,1214000.0,1500000.0,Transfermarkt
+Jeremy Sarmiento,Brighton & Hove Albion,MID,7000000.0,8964000.0,7000000.0,Transfermarkt
+Joël Veltman,Brighton & Hove Albion,DEF,4000000.0,5553000.0,4000000.0,Transfermarkt
+Kaoru Mitoma,Brighton & Hove Albion,FWD,40000000.0,40655000.0,40000000.0,Transfermarkt
+Lewis Dunk,Brighton & Hove Albion,DEF,6000000.0,7104000.0,6000000.0,Transfermarkt
+Mats Wieffer,Brighton & Hove Albion,MID,25000000.0,23543000.0,25000000.0,Transfermarkt
+Matt O'Riley,Brighton & Hove Albion,MID,22000000.0,20666000.0,22000000.0,Transfermarkt
+Pervis Estupiñán,Brighton & Hove Albion,DEF,30000000.0,22720000.0,30000000.0,Transfermarkt
+Simon Adingra,Brighton & Hove Albion,MID,28000000.0,25918000.0,28000000.0,Transfermarkt
+Solly March,Brighton & Hove Albion,MID,6000000.0,6183000.0,6000000.0,Transfermarkt
+Tariq Lamptey,Brighton & Hove Albion,DEF,11000000.0,12301000.0,11000000.0,Transfermarkt
+Yankuba Minteh,Brighton & Hove Albion,MID,30000000.0,31976000.0,30000000.0,Transfermarkt
+Yasin Ayari,Brighton & Hove Albion,MID,22000000.0,26262000.0,22000000.0,Transfermarkt
+Benoît Badiashile,Chelsea,DEF,22000000.0,16741000.0,22000000.0,Transfermarkt
+Christopher Nkunku,Chelsea,MID,35000000.0,18895000.0,35000000.0,Transfermarkt
+Cole Palmer,Chelsea,MID,120000000.0,104137000.0,120000000.0,Transfermarkt
+Enzo Fernández,Chelsea,MID,75000000.0,60342000.0,75000000.0,Transfermarkt
+Filip Jørgensen,Chelsea,GKP,18000000.0,12797000.0,18000000.0,Transfermarkt
+Jadon Sancho,Chelsea,MID,28000000.0,29203000.0,28000000.0,Transfermarkt
+Josh Acheampong,Chelsea,DEF,8000000.0,8088000.0,8000000.0,Transfermarkt
+João Félix,Chelsea,FWD,30000000.0,27532000.0,30000000.0,Transfermarkt
+Kiernan Dewsbury-Hall,Chelsea,MID,20000000.0,11891000.0,20000000.0,Transfermarkt
+Levi Colwill,Chelsea,DEF,55000000.0,52646000.0,55000000.0,Transfermarkt
+Malo Gusto,Chelsea,DEF,35000000.0,32634000.0,35000000.0,Transfermarkt
+Marc Cucurella,Chelsea,DEF,35000000.0,36621000.0,35000000.0,Transfermarkt
+Marc Guiu,Chelsea,DEF,8000000.0,7300000.0,8000000.0,Transfermarkt
+Mathis Amougou,Chelsea,MID,10000000.0,8975000.0,10000000.0,Transfermarkt
+Moisés Caicedo,Chelsea,MID,90000000.0,56216000.0,90000000.0,Transfermarkt
+Nicolas Jackson,Chelsea,FWD,50000000.0,48334000.0,50000000.0,Transfermarkt
+Noni Madueke,Chelsea,MID,40000000.0,39807000.0,40000000.0,Transfermarkt
+Pedro Neto,Chelsea,MID,50000000.0,50053000.0,50000000.0,Transfermarkt
+Reece James,Chelsea,DEF,400000.0,3265000.0,400000.0,Transfermarkt
+Renato Veiga,Chelsea,MID,10000000.0,11914000.0,10000000.0,Transfermarkt
+Robert Sánchez,Chelsea,GKP,20000000.0,20855000.0,20000000.0,Transfermarkt
+Roméo Lavia,Chelsea,MID,40000000.0,27212000.0,40000000.0,Transfermarkt
+Tosin Adarabioyo,Chelsea,DEF,20000000.0,22343000.0,20000000.0,Transfermarkt
+Trevoh Chalobah,Chelsea,DEF,25000000.0,26058000.0,25000000.0,Transfermarkt
+Tyrique George,Chelsea,FWD,10000000.0,9722000.0,10000000.0,Transfermarkt
+Wesley Fofana,Chelsea,DEF,25000000.0,22744000.0,25000000.0,Transfermarkt
+Adam Wharton,Crystal Palace,MID,45000000.0,36899000.0,45000000.0,Transfermarkt
+Ben Chilwell,Crystal Palace,DEF,15000000.0,13413000.0,15000000.0,Transfermarkt
+Caleb Kporha,Crystal Palace,DEF,1000000.0,6514000.0,1000000.0,Transfermarkt
+Chadi Riad,Crystal Palace,DEF,15000000.0,11193000.0,15000000.0,Transfermarkt
+Cheick Doucouré,Crystal Palace,MID,25000000.0,11002000.0,25000000.0,Transfermarkt
+Chris Richards,Crystal Palace,DEF,14000000.0,20302000.0,14000000.0,Transfermarkt
+Daichi Kamada,Crystal Palace,MID,12000000.0,22370000.0,12000000.0,Transfermarkt
+Daniel Muñoz,Crystal Palace,DEF,25000000.0,31244000.0,25000000.0,Transfermarkt
+Dean Henderson,Crystal Palace,GKP,20000000.0,21048000.0,20000000.0,Transfermarkt
+Eberechi Eze,Crystal Palace,MID,55000000.0,57837000.0,55000000.0,Transfermarkt
+Eddie Nketiah,Crystal Palace,FWD,18000000.0,21823000.0,18000000.0,Transfermarkt
+Ismaïla Sarr,Crystal Palace,MID,25000000.0,42667000.0,25000000.0,Transfermarkt
+Jean-Philippe Mateta,Crystal Palace,FWD,30000000.0,34563000.0,30000000.0,Transfermarkt
+Jefferson Lerma,Crystal Palace,MID,10000000.0,14356000.0,10000000.0,Transfermarkt
+Jeffrey Schlupp,Crystal Palace,MID,6000000.0,5305000.0,6000000.0,Transfermarkt
+Joel Ward,Crystal Palace,DEF,500000.0,886000.0,500000.0,Transfermarkt
+Jordan Ayew,Crystal Palace,MID,2500000.0,7241000.0,2500000.0,Transfermarkt
+Justin Devenny,Crystal Palace,MID,6000000.0,9779000.0,6000000.0,Transfermarkt
+Marc Guéhi,Crystal Palace,DEF,45000000.0,45706000.0,45000000.0,Transfermarkt
+Matheus França,Crystal Palace,MID,10000000.0,8575000.0,10000000.0,Transfermarkt
+Maxence Lacroix,Crystal Palace,DEF,25000000.0,35249000.0,25000000.0,Transfermarkt
+Nathaniel Clyne,Crystal Palace,DEF,1000000.0,1350000.0,1000000.0,Transfermarkt
+Romain Esse,Crystal Palace,MID,12000000.0,10674000.0,12000000.0,Transfermarkt
+Tyrick Mitchell,Crystal Palace,DEF,25000000.0,27515000.0,25000000.0,Transfermarkt
+Will Hughes,Crystal Palace,MID,7000000.0,17403000.0,7000000.0,Transfermarkt
+Abdoulaye Doucouré,Everton,MID,7000000.0,8874000.0,7000000.0,Transfermarkt
+Adam Armstrong,Everton,FWD,12000000.0,17644000.0,12000000.0,Transfermarkt
+Armando Broja,Everton,FWD,12000000.0,13492000.0,12000000.0,Transfermarkt
+Ashley Young,Everton,DEF,500000.0,4705000.0,500000.0,Transfermarkt
+Carlos Alcaraz,Everton,MID,14000000.0,16385000.0,14000000.0,Transfermarkt
+Dominic Calvert-Lewin,Everton,FWD,16000000.0,24146000.0,16000000.0,Transfermarkt
+Dwight McNeil,Everton,MID,25000000.0,25005000.0,25000000.0,Transfermarkt
+Harrison Armstrong,Everton,MID,500000.0,3516000.0,500000.0,Transfermarkt
+Idrissa Gueye,Everton,MID,1500000.0,13369000.0,1500000.0,Transfermarkt
+Iliman Ndiaye,Everton,FWD,22000000.0,29627000.0,22000000.0,Transfermarkt
+Jack Harrison,Everton,MID,14000000.0,15819000.0,14000000.0,Transfermarkt
+Jake O'Brien,Everton,MID,18000000.0,18930000.0,18000000.0,Transfermarkt
+James Garner,Everton,MID,18000000.0,21128000.0,18000000.0,Transfermarkt
+James Tarkowski,Everton,DEF,9000000.0,9871000.0,9000000.0,Transfermarkt
+Jarrad Branthwaite,Everton,DEF,50000000.0,44075000.0,50000000.0,Transfermarkt
+Jesper Lindstrøm,Everton,MID,18000000.0,19441000.0,18000000.0,Transfermarkt
+Jordan Pickford,Everton,GKP,18000000.0,18632000.0,18000000.0,Transfermarkt
+Michael Keane,Everton,DEF,5000000.0,5045000.0,5000000.0,Transfermarkt
+Nathan Patterson,Everton,DEF,15000000.0,12308000.0,15000000.0,Transfermarkt
+Orel Mangala,Everton,MID,18000000.0,18503000.0,18000000.0,Transfermarkt
+Séamus Coleman,Everton,DEF,500000.0,2193000.0,500000.0,Transfermarkt
+Tim Iroegbunam,Everton,MID,9000000.0,17345000.0,9000000.0,Transfermarkt
+Youssef Chermiti,Everton,FWD,8000000.0,7568000.0,8000000.0,Transfermarkt
+Alex Iwobi,Fulham,MID,28000000.0,32649000.0,28000000.0,Transfermarkt
+Andreas Pereira,Fulham,MID,18000000.0,21388000.0,18000000.0,Transfermarkt
+Antonee Robinson,Fulham,DEF,35000000.0,32669000.0,35000000.0,Transfermarkt
+Bernd Leno,Fulham,GKP,10000000.0,10753000.0,10000000.0,Transfermarkt
+Calvin Bassey,Fulham,DEF,25000000.0,28217000.0,25000000.0,Transfermarkt
+Carlos Vinícius,Fulham,MID,3500000.0,3513000.0,3500000.0,Transfermarkt
+Emile Smith Rowe,Fulham,MID,30000000.0,32122000.0,30000000.0,Transfermarkt
+Harrison Reed,Fulham,MID,6000000.0,6228000.0,6000000.0,Transfermarkt
+Harry Wilson,Fulham,MID,15000000.0,22971000.0,15000000.0,Transfermarkt
+Issa Diop,Fulham,DEF,14000000.0,14888000.0,14000000.0,Transfermarkt
+Joachim Andersen,Fulham,DEF,27000000.0,25335000.0,27000000.0,Transfermarkt
+Jorge Cuenca,Fulham,DEF,5000000.0,7384000.0,5000000.0,Transfermarkt
+Josh King,Fulham,GKP,1000000.0,12630000.0,1000000.0,Transfermarkt
+Kenny Tete,Fulham,DEF,13000000.0,13918000.0,13000000.0,Transfermarkt
+Martial Godo,Fulham,FWD,600000.0,5404000.0,600000.0,Transfermarkt
+Raúl Jiménez,Fulham,FWD,5000000.0,18082000.0,5000000.0,Transfermarkt
+Reiss Nelson,Fulham,MID,16000000.0,17336000.0,16000000.0,Transfermarkt
+Rodrigo Muniz,Fulham,FWD,20000000.0,24259000.0,20000000.0,Transfermarkt
+Ryan Sessegnon,Fulham,DEF,15000000.0,14813000.0,15000000.0,Transfermarkt
+Sander Berge,Fulham,MID,25000000.0,24256000.0,25000000.0,Transfermarkt
+Sasa Lukic,Fulham,MID,14000000.0,17466000.0,14000000.0,Transfermarkt
+Timothy Castagne,Fulham,DEF,13000000.0,17749000.0,13000000.0,Transfermarkt
+Tom Cairney,Fulham,MID,1500000.0,2436000.0,1500000.0,Transfermarkt
+Willian,Fulham,FWD,750000.0,2534000.0,750000.0,Transfermarkt
+Alex Palmer,Ipswich Town,MID,900000.0,4830000.0,900000.0,Transfermarkt
+Ali Al-Hamadi,Ipswich Town,FWD,2500000.0,6934000.0,2500000.0,Transfermarkt
+Arijanet Muric,Ipswich Town,GKP,5000000.0,12655000.0,5000000.0,Transfermarkt
+Axel Tuanzebe,Ipswich Town,DEF,5000000.0,10837000.0,5000000.0,Transfermarkt
+Ben Godfrey,Ipswich Town,DEF,6000000.0,5705000.0,6000000.0,Transfermarkt
+Ben Johnson,Ipswich Town,DEF,8000000.0,11110000.0,8000000.0,Transfermarkt
+Cameron Burgess,Ipswich Town,DEF,2000000.0,8120000.0,2000000.0,Transfermarkt
+Christian Walton,Ipswich Town,GKP,900000.0,5194000.0,900000.0,Transfermarkt
+Conor Chaplin,Ipswich Town,MID,6000000.0,11382000.0,6000000.0,Transfermarkt
+Conor Townsend,Ipswich Town,DEF,800000.0,1836000.0,800000.0,Transfermarkt
+Dara O'Shea,Ipswich Town,DEF,14000000.0,25762000.0,14000000.0,Transfermarkt
+George Edmundson,Ipswich Town,DEF,800000.0,6746000.0,800000.0,Transfermarkt
+George Hirst,Ipswich Town,FWD,4000000.0,9378000.0,4000000.0,Transfermarkt
+Harry Clarke,Ipswich Town,DEF,4500000.0,6278000.0,4500000.0,Transfermarkt
+Jack Clarke,Ipswich Town,FWD,15000000.0,18634000.0,15000000.0,Transfermarkt
+Jack Taylor,Ipswich Town,MID,3000000.0,9143000.0,3000000.0,Transfermarkt
+Jacob Greaves,Ipswich Town,DEF,18000000.0,27411000.0,18000000.0,Transfermarkt
+Jaden Philogene,Ipswich Town,MID,16000000.0,17825000.0,16000000.0,Transfermarkt
+Jens Cajuste,Ipswich Town,MID,12000000.0,16948000.0,12000000.0,Transfermarkt
+Julio Enciso,Ipswich Town,MID,22000000.0,31740000.0,22000000.0,Transfermarkt
+Kalvin Phillips,Ipswich Town,MID,12000000.0,13328000.0,12000000.0,Transfermarkt
+Leif Davis,Ipswich Town,DEF,22000000.0,23147000.0,22000000.0,Transfermarkt
+Liam Delap,Ipswich Town,FWD,40000000.0,37821000.0,40000000.0,Transfermarkt
+Luke Woolfenden,Ipswich Town,DEF,2000000.0,8103000.0,2000000.0,Transfermarkt
+Marcus Harness,Ipswich Town,MID,800000.0,5167000.0,800000.0,Transfermarkt
+Massimo Luongo,Ipswich Town,MID,400000.0,2377000.0,400000.0,Transfermarkt
+Nathan Broadhead,Ipswich Town,MID,4500000.0,18328000.0,4500000.0,Transfermarkt
+Omari Hutchinson,Ipswich Town,MID,22000000.0,40155000.0,22000000.0,Transfermarkt
+Sam Morsy,Ipswich Town,MID,500000.0,4384000.0,500000.0,Transfermarkt
+Abdul Fatawu,Leicester City,MID,11000000.0,15756000.0,11000000.0,Transfermarkt
+Bilal El Khannouss,Leicester City,MID,28000000.0,29391000.0,28000000.0,Transfermarkt
+Bobby De Cordova-Reid,Leicester City,MID,2500000.0,4395000.0,2500000.0,Transfermarkt
+Boubakary Soumaré,Leicester City,MID,20000000.0,20355000.0,20000000.0,Transfermarkt
+Conor Coady,Leicester City,DEF,2200000.0,3865000.0,2200000.0,Transfermarkt
+Danny Ward,Leicester City,GKP,700000.0,1068000.0,700000.0,Transfermarkt
+Facundo Buonanotte,Leicester City,MID,20000000.0,23822000.0,20000000.0,Transfermarkt
+Hamza Choudhury,Leicester City,MID,4500000.0,7314000.0,4500000.0,Transfermarkt
+Harry Winks,Leicester City,MID,9000000.0,12318000.0,9000000.0,Transfermarkt
+Jakub Stolarczyk,Leicester City,GKP,300000.0,7359000.0,300000.0,Transfermarkt
+James Justin,Leicester City,DEF,13000000.0,16306000.0,13000000.0,Transfermarkt
+Jamie Vardy,Leicester City,FWD,1000000.0,50741000.0,1000000.0,Transfermarkt
+Jannik Vestergaard,Leicester City,DEF,2000000.0,3578000.0,2000000.0,Transfermarkt
+Kasey McAteer,Leicester City,MID,2000000.0,9398000.0,2000000.0,Transfermarkt
+Luke Thomas,Leicester City,DEF,6000000.0,12487000.0,6000000.0,Transfermarkt
+Mads Hermansen,Leicester City,GKP,15000000.0,21603000.0,15000000.0,Transfermarkt
+Michael Golding,Leicester City,MID,2000000.0,10218000.0,2000000.0,Transfermarkt
+Odsonne Édouard,Leicester City,FWD,8000000.0,11567000.0,8000000.0,Transfermarkt
+Oliver Skipp,Leicester City,MID,10000000.0,19470000.0,10000000.0,Transfermarkt
+Patson Daka,Leicester City,FWD,15000000.0,17193000.0,15000000.0,Transfermarkt
+Ricardo Pereira,Leicester City,DEF,4500000.0,4120000.0,4500000.0,Transfermarkt
+Stephy Mavididi,Leicester City,MID,10000000.0,23569000.0,10000000.0,Transfermarkt
+Victor Kristiansen,Leicester City,DEF,15000000.0,23052000.0,15000000.0,Transfermarkt
+Wilfred Ndidi,Leicester City,MID,15000000.0,19665000.0,15000000.0,Transfermarkt
+Wout Faes,Leicester City,DEF,15000000.0,18801000.0,15000000.0,Transfermarkt
+Woyo Coulibaly,Leicester City,DEF,2000000.0,5320000.0,2000000.0,Transfermarkt
+Alexis Mac Allister,Liverpool,MID,100000000.0,77926000.0,100000000.0,Transfermarkt
+Caoimhín Kelleher,Liverpool,GKP,20000000.0,17177000.0,20000000.0,Transfermarkt
+Cody Gakpo,Liverpool,FWD,70000000.0,58648000.0,70000000.0,Transfermarkt
+Conor Bradley,Liverpool,DEF,30000000.0,27315000.0,30000000.0,Transfermarkt
+Curtis Jones,Liverpool,MID,45000000.0,37871000.0,45000000.0,Transfermarkt
+Darwin Núñez,Liverpool,FWD,45000000.0,36717000.0,45000000.0,Transfermarkt
+Diogo Jota,Liverpool,FWD,40000000.0,39431000.0,40000000.0,Transfermarkt
+Dominik Szoboszlai,Liverpool,MID,80000000.0,72594000.0,80000000.0,Transfermarkt
+Federico Chiesa,Liverpool,FWD,14000000.0,15713000.0,14000000.0,Transfermarkt
+Harvey Elliott,Liverpool,MID,30000000.0,25985000.0,30000000.0,Transfermarkt
+Ibrahima Konaté,Liverpool,DEF,60000000.0,48942000.0,60000000.0,Transfermarkt
+Jarell Quansah,Liverpool,DEF,20000000.0,12812000.0,20000000.0,Transfermarkt
+Jayden Danns,Liverpool,MID,800000.0,4425000.0,800000.0,Transfermarkt
+Joe Gomez,Liverpool,DEF,20000000.0,13484000.0,20000000.0,Transfermarkt
+Luis Díaz,Liverpool,MID,70000000.0,53604000.0,70000000.0,Transfermarkt
+Mohamed Salah,Liverpool,MID,50000000.0,70464000.0,50000000.0,Transfermarkt
+Ryan Gravenberch,Liverpool,MID,75000000.0,61598000.0,75000000.0,Transfermarkt
+Trent Alexander-Arnold,Liverpool,DEF,75000000.0,59083000.0,75000000.0,Transfermarkt
+Virgil van Dijk,Liverpool,DEF,23000000.0,19284000.0,23000000.0,Transfermarkt
+Vítezslav Jaros,Liverpool,GKP,4000000.0,4288000.0,4000000.0,Transfermarkt
+Wataru Endo,Liverpool,MID,8000000.0,6451000.0,8000000.0,Transfermarkt
+Abdukodir Khusanov,Manchester City,DEF,35000000.0,26121000.0,35000000.0,Transfermarkt
+Bernardo Silva,Manchester City,MID,38000000.0,30353000.0,38000000.0,Transfermarkt
+Claudio Echeverri,Manchester City,FWD,18000000.0,12356000.0,18000000.0,Transfermarkt
+Divin Mubama,Manchester City,FWD,1000000.0,3242000.0,1000000.0,Transfermarkt
+Erling Haaland,Manchester City,FWD,180000000.0,118712000.0,180000000.0,Transfermarkt
+Ilkay Gündogan,Manchester City,MID,5000000.0,13692000.0,5000000.0,Transfermarkt
+Jack Grealish,Manchester City,MID,28000000.0,21898000.0,28000000.0,Transfermarkt
+James McAtee,Manchester City,MID,20000000.0,19322000.0,20000000.0,Transfermarkt
+John Stones,Manchester City,DEF,25000000.0,17144000.0,25000000.0,Transfermarkt
+Josko Gvardiol,Manchester City,DEF,75000000.0,66817000.0,75000000.0,Transfermarkt
+Jérémy Doku,Manchester City,MID,50000000.0,42196000.0,50000000.0,Transfermarkt
+Kevin De Bruyne,Manchester City,MID,20000000.0,26887000.0,20000000.0,Transfermarkt
+Kyle Walker,Manchester City,DEF,10000000.0,7499000.0,10000000.0,Transfermarkt
+Manuel Akanji,Manchester City,DEF,28000000.0,25131000.0,28000000.0,Transfermarkt
+Mateo Kovacic,Manchester City,MID,20000000.0,25652000.0,20000000.0,Transfermarkt
+Matheus Nunes,Manchester City,MID,35000000.0,30750000.0,35000000.0,Transfermarkt
+Nathan Aké,Manchester City,DEF,25000000.0,18474000.0,25000000.0,Transfermarkt
+Nico González,Manchester City,MID,40000000.0,28678000.0,40000000.0,Transfermarkt
+Nico O'Reilly,Manchester City,DEF,18000000.0,20088000.0,18000000.0,Transfermarkt
+Omar Marmoush,Manchester City,FWD,75000000.0,44699000.0,75000000.0,Transfermarkt
+Oscar Bobb,Manchester City,MID,25000000.0,16281000.0,25000000.0,Transfermarkt
+Phil Foden,Manchester City,MID,100000000.0,82958000.0,100000000.0,Transfermarkt
+Rico Lewis,Manchester City,DEF,40000000.0,37494000.0,40000000.0,Transfermarkt
+Rúben Dias,Manchester City,DEF,65000000.0,32658000.0,65000000.0,Transfermarkt
+Savinho,Manchester City,FWD,50000000.0,61927000.0,50000000.0,Transfermarkt
+Stefan Ortega,Manchester City,GKP,8000000.0,3314000.0,8000000.0,Transfermarkt
+Vitor Reis,Manchester City,DEF,30000000.0,13748000.0,30000000.0,Transfermarkt
+Wes Burns,Manchester City,MID,1200000.0,4462000.0,1200000.0,Transfermarkt
+Alejandro Garnacho,Manchester United,MID,45000000.0,42584000.0,45000000.0,Transfermarkt
+Amad Diallo,Manchester United,MID,45000000.0,48082000.0,45000000.0,Transfermarkt
+André Onana,Manchester United,GKP,25000000.0,22849000.0,25000000.0,Transfermarkt
+Antony,Manchester United,DEF,20000000.0,17205000.0,20000000.0,Transfermarkt
+Ayden Heaven,Manchester United,DEF,5000000.0,7186000.0,5000000.0,Transfermarkt
+Bruno Fernandes,Manchester United,MID,50000000.0,51038000.0,50000000.0,Transfermarkt
+Casemiro,Manchester United,MID,10000000.0,10675000.0,10000000.0,Transfermarkt
+Christian Eriksen,Manchester United,MID,4000000.0,9532000.0,4000000.0,Transfermarkt
+Diogo Dalot,Manchester United,DEF,30000000.0,34753000.0,30000000.0,Transfermarkt
+Harry Amass,Manchester United,DEF,5000000.0,7938000.0,5000000.0,Transfermarkt
+Harry Maguire,Manchester United,DEF,13000000.0,12369000.0,13000000.0,Transfermarkt
+Jonny Evans,Manchester United,DEF,2000000.0,3472000.0,2000000.0,Transfermarkt
+Joshua Zirkzee,Manchester United,FWD,30000000.0,28919000.0,30000000.0,Transfermarkt
+Kobbie Mainoo,Manchester United,MID,50000000.0,42036000.0,50000000.0,Transfermarkt
+Leny Yoro,Manchester United,DEF,55000000.0,41406000.0,55000000.0,Transfermarkt
+Lisandro Martínez,Manchester United,DEF,40000000.0,31591000.0,40000000.0,Transfermarkt
+Luke Shaw,Manchester United,DEF,12000000.0,11497000.0,12000000.0,Transfermarkt
+Manuel Ugarte,Manchester United,MID,45000000.0,28768000.0,45000000.0,Transfermarkt
+Mason Mount,Manchester United,MID,28000000.0,24080000.0,28000000.0,Transfermarkt
+Matthijs de Ligt,Manchester United,DEF,38000000.0,36691000.0,38000000.0,Transfermarkt
+Noussair Mazraoui,Manchester United,DEF,25000000.0,25438000.0,25000000.0,Transfermarkt
+Patrick Dorgu,Manchester United,DEF,25000000.0,25214000.0,25000000.0,Transfermarkt
+Rasmus Højlund,Manchester United,FWD,35000000.0,34657000.0,35000000.0,Transfermarkt
+Scott McTominay,Manchester United,MID,32000000.0,21339000.0,32000000.0,Transfermarkt
+Toby Collyer,Manchester United,MID,5000000.0,7431000.0,5000000.0,Transfermarkt
+Tyrell Malacia,Manchester United,DEF,15000000.0,12261000.0,15000000.0,Transfermarkt
+Victor Lindelöf,Manchester United,DEF,8000000.0,13323000.0,8000000.0,Transfermarkt
+Alexander Isak,Newcastle United,FWD,120000000.0,89209000.0,120000000.0,Transfermarkt
+Anthony Gordon,Newcastle United,MID,65000000.0,61017000.0,65000000.0,Transfermarkt
+Bruno Guimarães,Newcastle United,MID,80000000.0,47209000.0,80000000.0,Transfermarkt
+Callum Wilson,Newcastle United,FWD,8000000.0,6660000.0,8000000.0,Transfermarkt
+Dan Burn,Newcastle United,DEF,6000000.0,10648000.0,6000000.0,Transfermarkt
+Emil Krafth,Newcastle United,DEF,2000000.0,4485000.0,2000000.0,Transfermarkt
+Fabian Schär,Newcastle United,DEF,7000000.0,19785000.0,7000000.0,Transfermarkt
+Harvey Barnes,Newcastle United,MID,35000000.0,34858000.0,35000000.0,Transfermarkt
+Jacob Murphy,Newcastle United,MID,16000000.0,32173000.0,16000000.0,Transfermarkt
+Joe Willock,Newcastle United,MID,22000000.0,21336000.0,22000000.0,Transfermarkt
+Joelinton,Newcastle United,MID,35000000.0,36544000.0,35000000.0,Transfermarkt
+Kieran Trippier,Newcastle United,DEF,4000000.0,4909000.0,4000000.0,Transfermarkt
+Lewis Hall,Newcastle United,DEF,32000000.0,32990000.0,32000000.0,Transfermarkt
+Lewis Miley,Newcastle United,MID,22000000.0,17042000.0,22000000.0,Transfermarkt
+Martin Dúbravka,Newcastle United,GKP,1000000.0,1479000.0,1000000.0,Transfermarkt
+Matt Targett,Newcastle United,DEF,5000000.0,5327000.0,5000000.0,Transfermarkt
+Miguel Almirón,Newcastle United,MID,16000000.0,13094000.0,16000000.0,Transfermarkt
+Nick Pope,Newcastle United,GKP,8000000.0,9481000.0,8000000.0,Transfermarkt
+Sandro Tonali,Newcastle United,MID,60000000.0,55947000.0,60000000.0,Transfermarkt
+Sean Longstaff,Newcastle United,MID,20000000.0,17898000.0,20000000.0,Transfermarkt
+Sven Botman,Newcastle United,DEF,42000000.0,23640000.0,42000000.0,Transfermarkt
+Tino Livramento,Newcastle United,DEF,40000000.0,37584000.0,40000000.0,Transfermarkt
+William Osula,Newcastle United,FWD,7000000.0,8132000.0,7000000.0,Transfermarkt
+Anthony Elanga,Nottingham Forest,MID,42000000.0,45375000.0,42000000.0,Transfermarkt
+Callum Hudson-Odoi,Nottingham Forest,MID,25000000.0,31731000.0,25000000.0,Transfermarkt
+Chris Wood,Nottingham Forest,FWD,10000000.0,31387000.0,10000000.0,Transfermarkt
+Elliot Anderson,Nottingham Forest,MID,32000000.0,35476000.0,32000000.0,Transfermarkt
+Eric da Silva Moreira,Nottingham Forest,MID,1000000.0,3277000.0,1000000.0,Transfermarkt
+Harry Toffolo,Nottingham Forest,DEF,3000000.0,4635000.0,3000000.0,Transfermarkt
+Ibrahim Sangaré,Nottingham Forest,MID,24000000.0,22184000.0,24000000.0,Transfermarkt
+Jota Silva,Nottingham Forest,FWD,15000000.0,16352000.0,15000000.0,Transfermarkt
+Matz Sels,Nottingham Forest,GKP,7000000.0,10905000.0,7000000.0,Transfermarkt
+Morato,Nottingham Forest,DEF,14000000.0,17747000.0,14000000.0,Transfermarkt
+Morgan Gibbs-White,Nottingham Forest,MID,50000000.0,54155000.0,50000000.0,Transfermarkt
+Murillo,Nottingham Forest,DEF,55000000.0,50411000.0,55000000.0,Transfermarkt
+Nathan Wood,Nottingham Forest,DEF,3500000.0,10607000.0,3500000.0,Transfermarkt
+Neco Williams,Nottingham Forest,DEF,20000000.0,32266000.0,20000000.0,Transfermarkt
+Nicolás Domínguez,Nottingham Forest,MID,18000000.0,19512000.0,18000000.0,Transfermarkt
+Nikola Milenkovic,Nottingham Forest,DEF,35000000.0,34463000.0,35000000.0,Transfermarkt
+Ola Aina,Nottingham Forest,DEF,22000000.0,23480000.0,22000000.0,Transfermarkt
+Ramón Sosa,Nottingham Forest,FWD,12000000.0,13517000.0,12000000.0,Transfermarkt
+Ryan Yates,Nottingham Forest,MID,12000000.0,18323000.0,12000000.0,Transfermarkt
+Taiwo Awoniyi,Nottingham Forest,FWD,16000000.0,14746000.0,16000000.0,Transfermarkt
+Álex Moreno,Nottingham Forest,DEF,7000000.0,6709000.0,7000000.0,Transfermarkt
+Aaron Ramsdale,Southampton,GKP,16000000.0,17498000.0,16000000.0,Transfermarkt
+Adam Lallana,Southampton,MID,750000.0,1310000.0,750000.0,Transfermarkt
+Alex McCarthy,Southampton,GKP,350000.0,649000.0,350000.0,Transfermarkt
+Armel Bella-Kotchap,Southampton,DEF,9000000.0,8722000.0,9000000.0,Transfermarkt
+Cameron Archer,Southampton,FWD,12000000.0,18121000.0,12000000.0,Transfermarkt
+Charlie Taylor,Southampton,DEF,2200000.0,2793000.0,2200000.0,Transfermarkt
+Chiedozie Ogbene,Southampton,FWD,7000000.0,10711000.0,7000000.0,Transfermarkt
+Flynn Downes,Southampton,MID,13000000.0,17436000.0,13000000.0,Transfermarkt
+Jack Stephens,Southampton,DEF,1500000.0,3921000.0,1500000.0,Transfermarkt
+James Bree,Southampton,DEF,2500000.0,15612000.0,2500000.0,Transfermarkt
+Jan Bednarek,Southampton,DEF,9000000.0,24403000.0,9000000.0,Transfermarkt
+Joe Aribo,Southampton,MID,6000000.0,21162000.0,6000000.0,Transfermarkt
+Joe Lumley,Southampton,GKP,500000.0,1950000.0,500000.0,Transfermarkt
+Kamaldeen Sulemana,Southampton,MID,13000000.0,19293000.0,13000000.0,Transfermarkt
+Kyle Walker-Peters,Southampton,DEF,15000000.0,17252000.0,15000000.0,Transfermarkt
+Lesley Ugochukwu,Southampton,MID,18000000.0,25603000.0,18000000.0,Transfermarkt
+Mason Holgate,Southampton,DEF,4000000.0,5965000.0,4000000.0,Transfermarkt
+Mateus Fernandes,Southampton,MID,15000000.0,33368000.0,15000000.0,Transfermarkt
+Paul Onuachu,Southampton,FWD,6000000.0,14224000.0,6000000.0,Transfermarkt
+Ronnie Edwards,Southampton,DEF,3800000.0,3755000.0,3800000.0,Transfermarkt
+Ryan Fraser,Southampton,MID,2000000.0,4867000.0,2000000.0,Transfermarkt
+Ryan Manning,Southampton,DEF,3000000.0,13899000.0,3000000.0,Transfermarkt
+Samuel Edozie,Southampton,MID,8000000.0,7061000.0,8000000.0,Transfermarkt
+Taylor Harwood-Bellis,Southampton,DEF,22000000.0,28639000.0,22000000.0,Transfermarkt
+Tyler Dibling,Southampton,FWD,25000000.0,29590000.0,25000000.0,Transfermarkt
+Welington,Southampton,DEF,3000000.0,7094000.0,3000000.0,Transfermarkt
+Will Smallbone,Southampton,MID,6000000.0,8669000.0,6000000.0,Transfermarkt
+Yukinari Sugawara,Southampton,DEF,11000000.0,16146000.0,11000000.0,Transfermarkt
+Antonín Kinsky,Tottenham Hotspur,GKP,15000000.0,9689000.0,15000000.0,Transfermarkt
+Archie Gray,Tottenham Hotspur,MID,38000000.0,36939000.0,38000000.0,Transfermarkt
+Ben Davies,Tottenham Hotspur,DEF,6000000.0,7772000.0,6000000.0,Transfermarkt
+Brandon Austin,Tottenham Hotspur,GKP,600000.0,3273000.0,600000.0,Transfermarkt
+Brennan Johnson,Tottenham Hotspur,MID,40000000.0,38884000.0,40000000.0,Transfermarkt
+Cristian Romero,Tottenham Hotspur,DEF,50000000.0,22519000.0,50000000.0,Transfermarkt
+Dane Scarlett,Tottenham Hotspur,FWD,2000000.0,3346000.0,2000000.0,Transfermarkt
+Dejan Kulusevski,Tottenham Hotspur,MID,50000000.0,47113000.0,50000000.0,Transfermarkt
+Destiny Udogie,Tottenham Hotspur,DEF,40000000.0,34866000.0,40000000.0,Transfermarkt
+Djed Spence,Tottenham Hotspur,DEF,20000000.0,25452000.0,20000000.0,Transfermarkt
+Dominic Solanke,Tottenham Hotspur,FWD,40000000.0,37060000.0,40000000.0,Transfermarkt
+Fraser Forster,Tottenham Hotspur,GKP,1000000.0,1014000.0,1000000.0,Transfermarkt
+Guglielmo Vicario,Tottenham Hotspur,GKP,32000000.0,14806000.0,32000000.0,Transfermarkt
+James Maddison,Tottenham Hotspur,MID,42000000.0,44411000.0,42000000.0,Transfermarkt
+Kevin Danso,Tottenham Hotspur,DEF,25000000.0,15532000.0,25000000.0,Transfermarkt
+Lucas Bergvall,Tottenham Hotspur,MID,38000000.0,36115000.0,38000000.0,Transfermarkt
+Mathys Tel,Tottenham Hotspur,FWD,35000000.0,32193000.0,35000000.0,Transfermarkt
+Micky van de Ven,Tottenham Hotspur,DEF,50000000.0,22469000.0,50000000.0,Transfermarkt
+Mikey Moore,Tottenham Hotspur,FWD,18000000.0,15270000.0,18000000.0,Transfermarkt
+Pedro Porro,Tottenham Hotspur,DEF,38000000.0,38709000.0,38000000.0,Transfermarkt
+Radu Dragusin,Tottenham Hotspur,DEF,25000000.0,24374000.0,25000000.0,Transfermarkt
+Richarlison,Tottenham Hotspur,FWD,20000000.0,21071000.0,20000000.0,Transfermarkt
+Rodrigo Bentancur,Tottenham Hotspur,MID,30000000.0,27095000.0,30000000.0,Transfermarkt
+Sergio Reguilón,Tottenham Hotspur,DEF,6000000.0,7463000.0,6000000.0,Transfermarkt
+Timo Werner,Tottenham Hotspur,MID,7000000.0,20322000.0,7000000.0,Transfermarkt
+Wilson Odobert,Tottenham Hotspur,FWD,20000000.0,21064000.0,20000000.0,Transfermarkt
+Yves Bissouma,Tottenham Hotspur,MID,25000000.0,22580000.0,25000000.0,Transfermarkt
+Aaron Cresswell,West Ham United,DEF,500000.0,1417000.0,500000.0,Transfermarkt
+Aaron Wan-Bissaka,West Ham United,DEF,24000000.0,25903000.0,24000000.0,Transfermarkt
+Alphonse Areola,West Ham United,GKP,9000000.0,9219000.0,9000000.0,Transfermarkt
+Carlos Soler,West Ham United,MID,18000000.0,17999000.0,18000000.0,Transfermarkt
+Crysencio Summerville,West Ham United,FWD,22000000.0,18763000.0,22000000.0,Transfermarkt
+Danny Ings,West Ham United,FWD,6000000.0,5794000.0,6000000.0,Transfermarkt
+Edson Álvarez,West Ham United,MID,25000000.0,24643000.0,25000000.0,Transfermarkt
+Evan Ferguson,West Ham United,FWD,25000000.0,22161000.0,25000000.0,Transfermarkt
+Guido Rodríguez,West Ham United,MID,10000000.0,9384000.0,10000000.0,Transfermarkt
+James Ward-Prowse,West Ham United,MID,8000000.0,9841000.0,8000000.0,Transfermarkt
+Jarrod Bowen,West Ham United,MID,40000000.0,44151000.0,40000000.0,Transfermarkt
+Jean-Clair Todibo,West Ham United,DEF,25000000.0,24553000.0,25000000.0,Transfermarkt
+Konstantinos Mavropanos,West Ham United,DEF,17000000.0,20253000.0,17000000.0,Transfermarkt
+Lucas Paquetá,West Ham United,MID,28000000.0,33839000.0,28000000.0,Transfermarkt
+Luis Guilherme,West Ham United,MID,15000000.0,13865000.0,15000000.0,Transfermarkt
+Lukasz Fabianski,West Ham United,GKP,500000.0,1238000.0,500000.0,Transfermarkt
+Maximilian Kilman,West Ham United,DEF,25000000.0,24408000.0,25000000.0,Transfermarkt
+Maxwel Cornet,West Ham United,MID,8000000.0,12587000.0,8000000.0,Transfermarkt
+Michail Antonio,West Ham United,FWD,700000.0,2689000.0,700000.0,Transfermarkt
+Mohammed Kudus,West Ham United,MID,45000000.0,44667000.0,45000000.0,Transfermarkt
+Niclas Füllkrug,West Ham United,FWD,10000000.0,9124000.0,10000000.0,Transfermarkt
+Tomás Soucek,West Ham United,MID,18000000.0,35293000.0,18000000.0,Transfermarkt
+Vladimír Coufal,West Ham United,DEF,5000000.0,5646000.0,5000000.0,Transfermarkt
+André,Wolverhampton Wanderers,MID,28000000.0,29622000.0,28000000.0,Transfermarkt
+Boubacar Traoré,Wolverhampton Wanderers,MID,5000000.0,8109000.0,5000000.0,Transfermarkt
+Carlos Forbs,Wolverhampton Wanderers,MID,8000000.0,14234000.0,8000000.0,Transfermarkt
+Craig Dawson,Wolverhampton Wanderers,DEF,1500000.0,2951000.0,1500000.0,Transfermarkt
+Daniel Podence,Wolverhampton Wanderers,MID,20000000.0,13015000.0,20000000.0,Transfermarkt
+Emmanuel Agbadou,Wolverhampton Wanderers,DEF,20000000.0,19909000.0,20000000.0,Transfermarkt
+Gonçalo Guedes,Wolverhampton Wanderers,MID,11000000.0,16622000.0,11000000.0,Transfermarkt
+Jean-Ricner Bellegarde,Wolverhampton Wanderers,MID,18000000.0,23267000.0,18000000.0,Transfermarkt
+José Sá,Wolverhampton Wanderers,GKP,7000000.0,9521000.0,7000000.0,Transfermarkt
+Jørgen Strand Larsen,Wolverhampton Wanderers,FWD,30000000.0,32914000.0,30000000.0,Transfermarkt
+Mario Lemina,Wolverhampton Wanderers,MID,9000000.0,8440000.0,9000000.0,Transfermarkt
+Marshall Munetsi,Wolverhampton Wanderers,MID,15000000.0,17178000.0,15000000.0,Transfermarkt
+Matheus Cunha,Wolverhampton Wanderers,MID,60000000.0,62635000.0,60000000.0,Transfermarkt
+Matt Doherty,Wolverhampton Wanderers,DEF,2000000.0,9757000.0,2000000.0,Transfermarkt
+Nasser Djiga,Wolverhampton Wanderers,DEF,10000000.0,7289000.0,10000000.0,Transfermarkt
+Nélson Semedo,Wolverhampton Wanderers,DEF,9000000.0,13393000.0,9000000.0,Transfermarkt
+Pablo Sarabia,Wolverhampton Wanderers,MID,5000000.0,5861000.0,5000000.0,Transfermarkt
+Rayan Aït-Nouri,Wolverhampton Wanderers,DEF,35000000.0,41737000.0,35000000.0,Transfermarkt
+Rodrigo Gomes,Wolverhampton Wanderers,MID,15000000.0,17439000.0,15000000.0,Transfermarkt
+Sam Johnstone,Wolverhampton Wanderers,GKP,6000000.0,2778000.0,6000000.0,Transfermarkt
+Santiago Bueno,Wolverhampton Wanderers,DEF,10000000.0,16285000.0,10000000.0,Transfermarkt
+Tom King,Wolverhampton Wanderers,GKP,200000.0,3384000.0,200000.0,Transfermarkt
+Tommy Doyle,Wolverhampton Wanderers,MID,10000000.0,12234000.0,10000000.0,Transfermarkt
+Yerson Mosquera,Wolverhampton Wanderers,DEF,8000000.0,9557000.0,8000000.0,Transfermarkt
