@@ -35,7 +35,7 @@
 
 The main landing page introduces the Premier League Evaluator and highlights the machine-learning and football analytics focus.
 
-![Home](screenshots/home.png)
+![Home](screenshots/hero.png)
 
 ---
 
