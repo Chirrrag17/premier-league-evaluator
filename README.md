@@ -1,4 +1,4 @@
-🏆 Premier League Evaluator
+#🏆Premier League Evaluator
 A Streamlit web app for exploring, analyzing, and comparing Premier League players using machine-learning-driven valuations and performance data — wrapped in a bold, retro matchday-poster UI.
 
 [Python](https://img.shields.io/badge/python-3.9%2B-blue)
